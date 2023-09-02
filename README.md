@@ -4,4 +4,4 @@
 <p>Desafio proposto pelo meste Guanabara.</p>
 
 <a href="https://kaue-alves.github.io/pratica/index.html
-" target="_blank">Clique aqui para ver o site.</a><p>Fechado</p>
+" target="_blank">Clique aqui para ver o site.</a><p>Fechado por algum tempo</p>
