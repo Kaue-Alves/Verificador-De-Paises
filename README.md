@@ -1,5 +1,7 @@
-#Verificador de Países
-Aqui jaz um site que verifica se você é nacional ou estrangeiro.
-Desafio proposto pelo meste Guanabara.
+<h1>Verificador de Países</h1>
 
-https://kaue-alves.github.io/pratica/index.html
+<p>Aqui jaz um site que verifica se você é nacional ou estrangeiro.</p>
+<p>Desafio proposto pelo meste Guanabara.</p>
+
+<a href="https://kaue-alves.github.io/pratica/index.html
+">Clique aqui para ver o site.</a>
